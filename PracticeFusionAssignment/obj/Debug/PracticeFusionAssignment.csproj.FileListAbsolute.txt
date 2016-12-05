@@ -1,0 +1,10 @@
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignment\bin\Debug\PracticeFusionAssignment.dll
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignment\bin\Debug\PracticeFusionAssignment.pdb
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignment\obj\Debug\PracticeFusionAssignment.dll
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignment\obj\Debug\PracticeFusionAssignment.pdb
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignment\obj\Debug\PracticeFusionAssignment.csprojResolveAssemblyReference.cache
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignment\bin\Debug\PracticeFusionAssignment.dll
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignment\bin\Debug\PracticeFusionAssignment.pdb
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignment\obj\Debug\PracticeFusionAssignment.csprojResolveAssemblyReference.cache
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignment\obj\Debug\PracticeFusionAssignment.dll
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignment\obj\Debug\PracticeFusionAssignment.pdb

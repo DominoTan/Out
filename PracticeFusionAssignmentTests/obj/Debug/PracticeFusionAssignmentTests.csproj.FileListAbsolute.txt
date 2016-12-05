@@ -1,0 +1,16 @@
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignmentTests\bin\Debug\PracticeFusionAssignmentTests.dll
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignmentTests\bin\Debug\PracticeFusionAssignmentTests.pdb
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignmentTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignmentTests\bin\Debug\PracticeFusionAssignment.dll
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignmentTests\bin\Debug\PracticeFusionAssignment.pdb
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignmentTests\obj\Debug\PracticeFusionAssignmentTests.csprojResolveAssemblyReference.cache
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignmentTests\obj\Debug\PracticeFusionAssignmentTests.dll
+c:\users\cruggieri\documents\visual studio 2015\Projects\PracticeFusionAssignment\PracticeFusionAssignmentTests\obj\Debug\PracticeFusionAssignmentTests.pdb
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignmentTests\bin\Debug\PracticeFusionAssignmentTests.dll
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignmentTests\bin\Debug\PracticeFusionAssignmentTests.pdb
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignmentTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignmentTests\bin\Debug\PracticeFusionAssignment.dll
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignmentTests\bin\Debug\PracticeFusionAssignment.pdb
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignmentTests\obj\Debug\PracticeFusionAssignmentTests.csprojResolveAssemblyReference.cache
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignmentTests\obj\Debug\PracticeFusionAssignmentTests.dll
+C:\Users\cruggieri\Documents\Visual Studio 2015\Projects\PFASSIGNMENT\PracticeFusionAssignmentTests\obj\Debug\PracticeFusionAssignmentTests.pdb
